@@ -7,9 +7,9 @@ import pandas as pd
 
 def Email_sender(receiver_emails):
 
-    sender_email = "tusharmazumder011@gmail.com"
+    sender_email = "example.com"
     receiver_email = receiver_emails
-    password = "tkvk uqmr nuto ywch"
+    password = "############"
     subject = " Job Opportunity Inquiry"
 
     message = MIMEMultipart()
@@ -78,7 +78,7 @@ def Email_sender(receiver_emails):
                 Ph-7896285206 or via email at tusharmazumder011@gmail.com.</p>
             <p>Thank you for considering my application. I look forward to the possibility of working with you.</p>
             <p>Best regards,<br>Tushar Kanti Mazumder</p>
-            <a href="https://drive.google.com/file/d/1cbOdsDkO6WxZc5k4alS9HwhN1ZFgkVOP/view?export=download" class="cta-button">Download Resume</a>
+            <a href="#" class="cta-button">Download Resume</a>
         </div>
     </body>
 
