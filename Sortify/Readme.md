@@ -3,7 +3,8 @@
 ```markdown
 # Sortify - File Organization Tool
 
-![File Organization]([https://img.shields.io/badge/File-Organization-brightgreen](https://www.flaticon.com/free-icon/folder_16247929?term=file+manager&page=1&position=41&origin=search&related_id=16247929))
+![File Organization](https://www.flaticon.com/free-icon/folder_16247929?term=file+manager&page=1&position=41&origin=search&related_id=16247929)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 A powerful Python tool to automatically organize your files by categorizing them into folders based on their extensions.
