@@ -1,10 +1,10 @@
-Here's a comprehensive `README.md` file for your File Organizer project, based on the improved code:
+
 
 ```markdown
 # Sortify - File Organization Tool
 
-![File Organization](https://img.shields.io/badge/File-Organization-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![File Organization]([https://img.shields.io/badge/File-Organization-brightgreen](https://www.flaticon.com/free-icon/folder_16247929?term=file+manager&page=1&position=41&origin=search&related_id=16247929))
+
 
 A powerful Python tool to automatically organize your files by categorizing them into folders based on their extensions.
 
