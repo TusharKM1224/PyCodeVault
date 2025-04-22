@@ -3,6 +3,8 @@
 # Welcome to Sortify - File Organization Tool
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 
 A powerful Python tool to automatically organize your files by categorizing them into folders based on their extensions.
