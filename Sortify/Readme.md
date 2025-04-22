@@ -3,7 +3,7 @@
 # Welcome to Sortify - File Organization Tool
 
 
-![File Organization](https://www.flaticon.com/free-icon/folder_16247929?term=file+manager&page=1&position=41&origin=search&related_id=16247929)
+![File Organization]([https://www.flaticon.com/free-icon/folder_16247929?term=file+manager&page=1&position=41&origin=search&related_id=16247929](https://github.com/TusharKM1224/PyCodeVault/blob/main/Sortify/folder.ico))
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
